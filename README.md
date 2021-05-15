@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mazcuz
+- 👋 Hi, I’m @markcuz
 - 👀 I’m newbie here.
 
 <!---
