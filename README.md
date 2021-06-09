@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @markcuz
-- 👀 I’m newbie here.
+- 👋 Hi, I’m @jay
+- 👀 I’m new here.
 
 <!---
 mazcuz/mazcuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
